@@ -14,3 +14,6 @@
 ## EJECUCION
 
 En este repositorio se tiene almacenado las tareas, la data y los examenes de la clase de Bioformatica
+
+Uso de GitHub desko para el control de la version.
+
